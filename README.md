@@ -1,2 +1,7 @@
-# speech-to-text-transcription
-“A simple Python tool that converts speech/audio files into text using SpeechRecognition.”
+# 🎙️ Speech-to-Text Transcription Tool
+
+A simple Python tool that converts audio (microphone or audio files) into text using **SpeechRecognition**.
+
+## 🔧 Installation
+```bash
+pip install SpeechRecognition pyaudio
